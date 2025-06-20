@@ -1,0 +1,26 @@
+# Bytecode
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+!logs/.gitkeep
+
+# Data
+data/recipients.xlsx
+data/sample.pdf
+
+# You can include example files like:
+!data/recipients_example.xlsx
+!data/sample_example.pdf
+
+# Secrets
+.env
+.env.*
+
+# Virtual env
+venv/
+
+# IDE configs
+.vscode/
+.idea/
